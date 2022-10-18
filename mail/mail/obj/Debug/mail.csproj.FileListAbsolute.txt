@@ -1,0 +1,11 @@
+C:\Users\acer\Desktop\mail\mail\bin\Debug\mail.exe.config
+C:\Users\acer\Desktop\mail\mail\bin\Debug\mail.exe
+C:\Users\acer\Desktop\mail\mail\bin\Debug\mail.pdb
+C:\Users\acer\Desktop\mail\mail\obj\Debug\mail.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\mail\mail\obj\Debug\mail.csproj.SuggestedBindingRedirects.cache
+C:\Users\acer\Desktop\mail\mail\obj\Debug\mail.Form1.resources
+C:\Users\acer\Desktop\mail\mail\obj\Debug\mail.Properties.Resources.resources
+C:\Users\acer\Desktop\mail\mail\obj\Debug\mail.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\mail\mail\obj\Debug\mail.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\mail\mail\obj\Debug\mail.exe
+C:\Users\acer\Desktop\mail\mail\obj\Debug\mail.pdb
